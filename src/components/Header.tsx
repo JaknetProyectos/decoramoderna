@@ -6,7 +6,7 @@ import { Menu, X, Phone, ShoppingCart } from "lucide-react";
 import { useCart } from "@/context/CartContext";
 import { useTranslations, useLocale } from "next-intl";
 
-export function Header() {
+export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isCartOpen, setIsCartOpen] = useState(false);
   const { items, total, itemCount, removeFromCart } = useCart();

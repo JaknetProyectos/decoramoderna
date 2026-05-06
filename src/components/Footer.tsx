@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useTranslations } from "next-intl";
 
-export function Footer() {
+export default function Footer() {
   const t = useTranslations("Footer");
 
   const services = t.raw("services") as string[];

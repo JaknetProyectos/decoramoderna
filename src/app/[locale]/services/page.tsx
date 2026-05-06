@@ -1,8 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import { useCart } from "@/context/CartContext";
 import { Check, ShoppingCart, Phone } from "lucide-react";
 import Image from "next/image";

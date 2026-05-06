@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 
-export function InspirationSection() {
+export default function InspirationSection() {
   const t = useTranslations("inspirationSection");
 
   const inspirations = [

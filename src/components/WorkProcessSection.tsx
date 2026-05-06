@@ -3,7 +3,7 @@
 import { Calendar, MessageSquare, FileCheck } from "lucide-react";
 import { useTranslations } from "next-intl";
 
-export function WorkProcessSection() {
+export default function WorkProcessSection() {
   const t = useTranslations("workProcess");
 
   const steps = [

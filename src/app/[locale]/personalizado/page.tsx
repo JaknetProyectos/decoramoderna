@@ -2,8 +2,8 @@
 
 import { useState } from "react";
 import { useCart } from "@/context/CartContext";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
+import  Header  from "@/components/Header";
+import  Footer  from "@/components/Footer";
 import { FileText, User, Mail, Hash, DollarSign } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useAlert } from "@/context/AlertContext";

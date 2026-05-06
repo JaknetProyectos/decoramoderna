@@ -4,7 +4,7 @@ import Image from "next/image";
 import { Clock, Palette, Users } from "lucide-react";
 import { useTranslations } from "next-intl";
 
-export function AboutSection() {
+export default function AboutSection() {
   const t = useTranslations("about");
 
   const features = [

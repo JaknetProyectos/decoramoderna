@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useContact } from "@/hooks/useContact";
 import { useTranslations } from "next-intl";
 
-export function HeroSection() {
+export default function HeroSection() {
   const { sendContactForm, isLoading } = useContact();
   const t = useTranslations("Hero");
 

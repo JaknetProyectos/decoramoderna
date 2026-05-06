@@ -6,7 +6,7 @@ import { Check, Phone } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
 
-export function ServicesSection() {
+export default function ServicesSection() {
   const [activeService, setActiveService] = useState("residential");
   const t = useTranslations("servicesSection");
 

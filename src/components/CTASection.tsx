@@ -4,7 +4,7 @@ import { Link } from "@/i18n/routing";
 import { Phone } from "lucide-react";
 import { useTranslations } from "next-intl";
 
-export function CTASection() {
+export default function CTASection() {
   const t = useTranslations("ctaSection");
 
   return (

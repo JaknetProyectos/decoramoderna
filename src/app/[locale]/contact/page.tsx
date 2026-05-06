@@ -1,8 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { Header } from "@/components/Header";
-import { Footer } from "@/components/Footer";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 import { Phone, Mail, MapPin, Clock } from "lucide-react";
 import { useContact } from "@/hooks/useContact";
 import { useTranslations } from "next-intl";
