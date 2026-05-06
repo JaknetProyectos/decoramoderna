@@ -22,7 +22,7 @@ export default function ContactPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
-    if (!formData.name || !formData.email || !formData.message) {
+    if (!formData.name || !formData.email || !formData.phone) {
       return;
     }
 
@@ -31,7 +31,6 @@ export default function ContactPage() {
       email: formData.email,
       telefono: formData.phone,
       mensaje: formData.message,
-      servicioDeseado: formData.asunto,
       asunto: formData.asunto || t("defaultSubject"),
     });
 
@@ -182,6 +181,16 @@ export default function ContactPage() {
                     setFormData({ ...formData, phone: e.target.value })
                   }
                   className="w-full h-14 px-4 rounded-lg border border-gray-300 focus:border-[#341f97] focus:outline-none transition"
+                />
+
+                <textarea
+                  rows={5}
+                  
+                  value={formData.message}
+                  onChange={(e) =>
+                    setFormData({ ...formData, message: e.target.value })
+                  }
+                  className="w-full py-2 px-4 rounded-lg border border-gray-300 focus:border-[#341f97] focus:outline-none transition"
                 />
               </div>
 
