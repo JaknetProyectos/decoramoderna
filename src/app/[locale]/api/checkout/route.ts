@@ -158,7 +158,7 @@ export async function POST(req: Request) {
 
       resend.emails.send({
         from: "DecoraModerna <informacion@decoramoderna.com>",
-        to: process.env.ADMIN_EMAIL!,
+        to: "informacion@decoramoderna.com",
         subject: `Nueva venta - ${orderId}`,
         html: businessHTML,
       }),

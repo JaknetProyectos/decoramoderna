@@ -55,7 +55,7 @@ export async function POST(req: Request) {
 
     await resend.emails.send({
       from: "DecoraModerna <informacion@decoramoderna.com>",
-      to: [process.env.ADMIN_EMAIL!],
+      to: ["informacion@decoramoderna.com"],
       subject: `Nuevo contacto: ${asunto}`,
       html: adminHTML,
     });
