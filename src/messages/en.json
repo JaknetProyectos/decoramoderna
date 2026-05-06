@@ -1,0 +1,379 @@
+{
+  "ContactPage": {
+    "heroEyebrow": "Contact",
+    "heroTitle": "Let’s design your space together",
+    "heroDescription": "Tell us about your project and we’ll guide you step by step to transform your space into something unique, functional and beautiful.",
+    "infoTitle": "Get in touch",
+    "phoneLabel": "Phone",
+    "phoneValue": "+52 1 55 9129 4026",
+    "emailLabel": "Email",
+    "emailValue": "informacion@decoramoderna.com",
+    "addressLabel": "Address",
+    "addressValue": "Avenida Presidente Masaryk, N 178...",
+    "hoursLabel": "Working Hours",
+    "hoursValue": "Monday - Friday: 9:00 AM - 6:00 PM",
+    "formTitle": "Send us a message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "your@email.com",
+    "phonePlaceholder": "+52 1 55...",
+    "sendButton": "Send Message",
+    "sendingButton": "Sending...",
+    "defaultSubject": "Contact from website"
+  },
+  "Header": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact",
+    "cart": "Cart",
+    "emptyCart": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Checkout",
+    "contactLabel": "Contact"
+  },
+  "CheckoutPage": {
+    "backToServices": "Back to services",
+    "checkoutBadge": "Checkout",
+    "cartTitle": "Shopping cart",
+    "emptyCartTitle": "Your cart is empty",
+    "emptyCartDescription": "Browse our plans and find the perfect solution for your business.",
+    "emptyCartButton": "Services",
+    "summaryAndPaymentTitle": "Summary and payment",
+    "subtotal": "Subtotal",
+    "vat": "VAT (16%)",
+    "total": "Total",
+    "order": "Order",
+    "customerDataTitle": "Customer details",
+    "billingAddressTitle": "Billing address",
+    "cardDataTitle": "Card details",
+    "nameLabel": "Name",
+    "middleNameLabel": "Middle name",
+    "lastNameLabel": "Last name",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "cityLabel": "City",
+    "stateLabel": "State",
+    "countryLabel": "Country",
+    "addressLabel": "Address",
+    "postalCodeLabel": "Postal code",
+    "cardNumberLabel": "Card number",
+    "cardNameLabel": "Name on card",
+    "monthLabel": "Month",
+    "yearLabel": "Year",
+    "cvvLabel": "CVV",
+    "optional": "(optional)",
+    "namePlaceholder": "Name",
+    "middleNamePlaceholder": "Middle name",
+    "lastNamePlaceholder": "Last name",
+    "emailPlaceholder": "Email",
+    "phonePlaceholder": "Phone",
+    "cityPlaceholder": "City",
+    "statePlaceholder": "State",
+    "countryPlaceholder": "Country",
+    "addressPlaceholder": "Address",
+    "postalCodePlaceholder": "Postal code",
+    "cardNumberPlaceholder": "Card number",
+    "cardNamePlaceholder": "Name on card",
+    "monthPlaceholder": "MM",
+    "yearPlaceholder": "YY",
+    "cvvPlaceholder": "CVV",
+    "processing": "Processing...",
+    "proceedToPayment": "Proceed to payment",
+    "securePayment": "Secure payment guaranteed",
+    "paymentMethodsAlt": "Accepted payment methods",
+    "plusVat": "+ VAT",
+    "required": "This field is required.",
+    "invalidEmail": "Enter a valid email.",
+    "invalidPhone": "Enter a valid phone number.",
+    "invalidPostalCode": "Enter a valid postal code.",
+    "invalidCardNumber": "Enter a valid card number.",
+    "invalidMonth": "Invalid month.",
+    "invalidYear": "Enter 2 digits.",
+    "invalidCVV": "Invalid CVV.",
+    "emptyCartAlertTitle": "Cart is empty",
+    "emptyCartAlertMessage": "Add a plan before continuing with payment.",
+    "emptyCartConfirm": "Understood",
+    "reviewDataAlertTitle": "Review your details",
+    "reviewDataAlertMessage": "Some required fields or card details need correction.",
+    "reviewDataConfirm": "Fix it",
+    "paymentApprovedTitle": "Payment approved",
+    "paymentApprovedMessage": "Your payment was processed successfully. You will receive an email with your receipt.",
+    "paymentApprovedMailIssueMessage": "Your payment was processed successfully, but the confirmation email had a problem. We will contact you soon.",
+    "understood": "Understood",
+    "great": "Great",
+    "retry": "Retry",
+    "mailSendError": "Error sending email",
+    "paymentFailedTitle": "Payment not completed",
+    "paymentFailedFallback": "The payment could not be processed."
+  },
+  "CustomProduct": {
+    "title": "Custom Project",
+    "subtitle": "Add your custom quote and continue the purchase process in a simple and secure way.",
+    "badge": "Custom",
+    "infoTitle": "Every project is unique",
+    "infoText": "This service is designed for projects outside our catalog. You can enter a previously agreed quote and proceed directly with your purchase.",
+    "steps": {
+      "folio": "Use the provided folio number",
+      "amount": "Enter the agreed amount",
+      "details": "Add details if necessary"
+    },
+    "formTitle": "Add custom product",
+    "placeholders": {
+      "folio": "Folio number",
+      "total": "Total before taxes",
+      "name": "First name",
+      "lastName": "Last name",
+      "email": "Email address",
+      "description": "Project description"
+    },
+    "button": "Add to cart",
+    "productName": "Custom Project",
+    "alerts": {
+      "requiredFields": "Please complete all required fields",
+      "addedToCart": "Product added to cart"
+    }
+  },
+  "Footer": {
+    "titles": {
+      "services": "Services",
+      "legal": "Legal",
+      "contact": "Contact"
+    },
+    "services": [
+      "Virtual design consulting",
+      "Interior design by room",
+      "Complete online interior design",
+      "Virtual home staging",
+      "Design for commercial spaces",
+      "3D renders or virtual tours",
+      "DIY decorating advice"
+    ],
+    "legal": [
+      {
+        "name": "Terms and Conditions of Use",
+        "href": "/terms"
+      },
+      {
+        "name": "Cancellation and Refund Policy",
+        "href": "/refund"
+      },
+      {
+        "name": "Comprehensive Privacy Notice",
+        "href": "/privacy"
+      }
+    ],
+    "contact": {
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "fullAddress": "Avenida Presidente Masaryk, N 178, Dep. 303, Polanco V Section, Miguel Hidalgo, 11560, Mexico City."
+    },
+    "bottom": {
+      "tagline": "Online Interior Design and Decoration",
+      "rights": "© 2026 DecoraModerna. All rights reserved."
+    }
+  },
+  "Hero": {
+    "title": {
+      "line1": "Everything to transform",
+      "line2": "your space"
+    },
+    "defaultSubject": "Inquiry from Hero",
+    "form": {
+      "title": "Schedule your design session whenever you want",
+      "placeholders": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message"
+      },
+      "submit": "Send",
+      "sending": "Sending..."
+    }
+  },
+  "about": {
+    "title": "Designing spaces with experience\n since 2023",
+    "description": "We design interiors tailored to you. Each project is a personalized experience where comfort, harmony, and style come together in one place.",
+    "features": {
+      "fast": {
+        "title": "Fast and reliable advice",
+        "description": "Get professional interior design guidance from the comfort of your home. We'll schedule your session easily and on time."
+      },
+      "designers": {
+        "title": "Skilled and creative designers",
+        "description": "Our team combines experience, style, and functionality to offer you unique and personalized proposals."
+      },
+      "attention": {
+        "title": "Flexible and personalized attention",
+        "description": "We adapt to your schedule and needs. You'll always find support during every stage of your design process."
+      }
+    }
+  },
+  "workProcess": {
+    "title": "Our work process",
+    "subtitle": "We make designing your space simple, accessible, and completely online.",
+    "stepLabel": "Step {number}",
+    "steps": {
+      "step1": {
+        "title": "Schedule your session",
+        "description": "Choose the day and time that best suits you. Our team will accompany you from the first call to the final design."
+      },
+      "step2": {
+        "title": "Tell us about your style",
+        "description": "During the session, we analyze your ideas, needs, and budget. We create a personalized proposal based on your preferences and objectives."
+      },
+      "step3": {
+        "title": "Receive your design",
+        "description": "Get your visual proposal with floor plans, color palette, and furniture suggestions. We'll fine-tune the details until we achieve the ideal space for you."
+      }
+    }
+  },
+  "faq": {
+    "title": "Get started with our simple pricing plan",
+    "subtitle": "Choose the package that best suits your project and transform your space with professional online design advice.",
+    "items": {
+      "q1": {
+        "question": "Can I schedule more than one design session?",
+        "answer": "Of course. You can schedule additional sessions based on the progress of your project or if you wish to make adjustments after the initial delivery."
+      },
+      "q2": {
+        "question": "Do prices change depending on the time of day or the day of the week?",
+        "answer": "No. Our plans have fixed and transparent prices, without additional charges for time or day of the week."
+      },
+      "q3": {
+        "question": "Can I receive advice on weekends?",
+        "answer": "Yes. We have limited availability on Saturdays and Sundays, ideal for those who prefer to coordinate their design outside of work hours."
+      },
+      "q4": {
+        "question": "What payment methods do you accept?",
+        "answer": "We accept payments with Mastercard and Visa credit or debit cards."
+      }
+    },
+    "cta": {
+      "title": "Personalized",
+      "subtitle": "Are you looking to transform your space, but don't know where to start?",
+      "primary": "Request a Quote",
+      "secondary": "All Services",
+      "description": "Every project is unique, which is why we offer a personalized design service that adapts to your needs, style, and budget."
+    }
+  },
+  "servicesSection": {
+    "eyebrow": "Services",
+    "title": "A wide range of design services",
+    "subtitle": "We create spaces that reflect your style and functionality, with customized solutions for each type of project.",
+    "viewAll": "View All",
+    "selectedService": "Selected service",
+    "contactLabel": "Contact",
+    "items": {
+      "residential": {
+        "title": "Residential design",
+        "description": "We create spaces that reflect your style and personality, combining aesthetics, functionality and comfort for every corner of your home.",
+        "features": {
+          "f1": "Personalized online consultation",
+          "f2": "Comprehensive distribution and ambiance",
+          "f3": "Selection of colors, textures and furniture",
+          "f4": "Previews of the final design"
+        }
+      },
+      "commercial": {
+        "title": "Commercial spaces",
+        "description": "We design functional and attractive environments that project your brand identity and improve your customers' experience.",
+        "features": {
+          "f1": "Conceptualization of spatial identity",
+          "f2": "Interior design for shops, offices and premises",
+          "f3": "Optimization of flow and lighting",
+          "f4": "Solutions tailored to your budget and style"
+        }
+      },
+      "online": {
+        "title": "Online Decorating",
+        "description": "Get professional advice without leaving home. We guide you step by step to transform your space through personalized virtual sessions.",
+        "features": {
+          "f1": "100% online sessions",
+          "f2": "Mood boards and visual proposals",
+          "f3": "Product and material recommendations",
+          "f4": "Follow-up until implementation"
+        }
+      },
+      "furniture": {
+        "title": "Furniture and materials",
+        "description": "We help you select pieces, finishes and materials that combine style, durability and harmony in every environment.",
+        "features": {
+          "f1": "Personalized furniture curation",
+          "f2": "Guide to materials, textures and finishes",
+          "f3": "Consulting on functionality and proportions",
+          "f4": "Brand and supplier recommendations"
+        }
+      },
+      "lighting": {
+        "title": "Lighting and color",
+        "description": "Light and color are essential in design. We create combinations that generate unique atmospheres, balancing aesthetics and well-being.",
+        "features": {
+          "f1": "Analysis of natural and artificial lighting",
+          "f2": "Color palettes tailored to your style",
+          "f3": "Decorative and functional lighting design",
+          "f4": "Technical and decorative suggestions for each environment"
+        }
+      }
+    }
+  },
+  "inspirationSection": {
+    "eyebrow": "Inspiration",
+    "title": "Inspiration for your space",
+    "subtitle": "Explore ideas and styles that will help you imagine your next ideal environment.",
+    "items": {
+      "residential": {
+        "title": "Residential design",
+        "description": "We create spaces that reflect your style and personality, combining aesthetics, functionality and comfort for every corner of your home."
+      },
+      "commercial": {
+        "title": "Commercial spaces",
+        "description": "We design functional and attractive environments that project your brand identity and improve your customers' experience."
+      },
+      "online": {
+        "title": "Online Decorating",
+        "description": "Get professional advice without leaving home. We guide you step by step to transform your space through personalized virtual sessions."
+      },
+      "furniture": {
+        "title": "Furniture and materials",
+        "description": "We help you select pieces, finishes and materials that combine style, durability and harmony in every environment."
+      }
+    }
+  },
+  "ctaSection": {
+    "eyebrow": "Start your project",
+    "title": "Do you want to transform your space?",
+    "line1": "We help you make it happen.",
+    "line2": "Create the ideal atmosphere for your home or office with our online design services.",
+    "button": "Contact",
+    "phoneLabel": "Consult the"
+  },
+  "servicesPage": {
+    "heroTitle": "Online Interior Design Services",
+    "introEyebrow": "Services",
+    "introTitle": "A wide range of design services",
+    "introSubtitle": "We create spaces that reflect your style and functionality, with customized solutions for each type of project.",
+    "viewAll": "View All",
+    "serviceBadge": "Service",
+    "idealForLabel": "Ideal for:",
+    "vat": "+ VAT",
+    "addButton": "Add",
+    "personalized": {
+      "title": "Personalized",
+      "line1": "Are you looking to transform your space, but don't know where to start?",
+      "line2": "Every project is unique, which is why we offer a personalized design service that adapts to your needs, style, and budget. Before we can give you a quote, we'd like to learn more about your space and what you're looking for.",
+      "questionLabel": "What do you need?",
+      "questionBody": "Home, office, commercial premises, home staging or DIY renovation... tell me your idea and we'll work together to find the best solution.",
+      "addToCart": "Add to cart",
+      "requestQuote": "Request a Quote"
+    },
+    "cta": {
+      "eyebrow": "Final step",
+      "title": "Do you want to transform your space?",
+      "line1": "We help you make it happen.",
+      "line2": "Schedule your online design consultation and start creating the space you've always dreamed of.",
+      "contactButton": "Contact",
+      "phoneLabel": "Contact",
+      "imageAlt": "Decorative arrow"
+    }
+  }
+}
