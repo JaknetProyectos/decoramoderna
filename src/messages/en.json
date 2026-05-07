@@ -9,7 +9,7 @@
     "emailLabel": "Email",
     "emailValue": "informacion@decoramoderna.com",
     "addressLabel": "Address",
-    "addressValue": "Avenida Presidente Masaryk, N 178...",
+    "addressValue": "Avenida Presidente Masaryk, N° 178, Dep. 303, Colonia Polanco V Seccion, Alcaldia Miguel Hidalgo, C.p. 11560, Entidad Federativa Ciudad De México.",
     "hoursLabel": "Working Hours",
     "hoursValue": "Monday - Friday: 9:00 AM - 6:00 PM",
     "formTitle": "Send us a message",
@@ -150,15 +150,15 @@
     "legal": [
       {
         "name": "Terms and Conditions of Use",
-        "href": "/terms"
+        "href": "/legal/terminos"
       },
       {
         "name": "Cancellation and Refund Policy",
-        "href": "/refund"
+        "href": "/legal/reembolsos"
       },
       {
         "name": "Comprehensive Privacy Notice",
-        "href": "/privacy"
+        "href": "/legal/privacidad"
       }
     ],
     "contact": {

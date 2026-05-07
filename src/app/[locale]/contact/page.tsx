@@ -125,7 +125,7 @@ export default function ContactPage() {
               </div>
 
               {/* Hours */}
-              <div className="flex items-start gap-4 bg-white p-5 rounded-xl border border-gray-200">
+              {/* <div className="flex items-start gap-4 bg-white p-5 rounded-xl border border-gray-200">
                 <div className="w-12 h-12 rounded-lg bg-[#ee5253]/90 flex items-center justify-center">
                   <Clock className="w-5 h-5 text-white" />
                 </div>
@@ -137,7 +137,7 @@ export default function ContactPage() {
                     {t("hoursValue")}
                   </p>
                 </div>
-              </div>
+              </div> */}
 
             </div>
           </div>
