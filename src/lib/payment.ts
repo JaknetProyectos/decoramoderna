@@ -18,7 +18,7 @@ interface PaymentData {
         telefono: string;
         direccion: string;
         state: string;
-        middleName? : string;
+        middleName?: string;
         cp: string;
         country: string;
     };
@@ -75,6 +75,10 @@ export async function processEtominPayment(payment: PaymentData) {
             currency: '484',
             reference: payment.orderId
         });
+
+        if (saleResponse.data.status != "APPROVED") {
+            throw new Error("Pago rechazado");
+        }
 
         // Retornamos la data si el status es aprobado (usualmente 'APPROVED' o '00')
         return saleResponse.data;
